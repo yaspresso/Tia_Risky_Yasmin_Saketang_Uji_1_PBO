@@ -1,19 +1,8 @@
-# 📦 Tia_Risky_Yasmin - Kumpulan Projek PBO  
+# 💻 Tia_Risky_Yasmin - PBO  
 
-### 🚗 Program Kendaraan  
-- Abstract Class `Vehicle` + Interface `Electric`  
-- Contoh: `Car` dan `Motorcycle` dengan startEngine() berbeda  
+- 🚗 Kendaraan: Abstract Class + Interface  
+- 🕌 Sholat: Inheritance + Polymorphism  
+- ⚔️ RPG: Abstract Class + Final Class  
+- 🛒 Kasir: Abstract Method + Interface  
 
-### 🕌 Jadwal Sholat  
-- 5 Class sholat wajib turunan dari `Prayer`  
-- Beberapa sholat implement `AudioReminder` untuk adzan  
-
-### ⚔️ Game RPG  
-- Abstract Class `Character` + Interface `Skill`  
-- 3 Hero: `Warrior`, `Mage`, `LegendaryKnight`  
-
-### 🛒 Sistem Kasir  
-- Abstract Class `Product` + Interface `Taxable`  
-- Perhitungan pajak berbeda untuk `Food` dan `Beverage`  
-
-🛠️ **Teknologi**: `Java` `OOP`  
+`Java` `OOP`  
