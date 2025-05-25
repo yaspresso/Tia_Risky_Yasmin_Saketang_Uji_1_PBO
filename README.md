@@ -1,16 +1,11 @@
-# Tia_Risky_Yasmin_Saketang_Uji_1_PBO / README.md
+# 🚀 Tia_Risky_Yasmin_Saketang_Uji 1_PBO  
+### Kumpulan Project PBO Java yang *No Nonsense!*  
 
-## Edit  
-Preview  
-Code 55% faster with GitHub Copilot  
+---
 
----  
-
-### # Tia_Risky_Yasmin_Saketang_Uji_1_PBO 🔴️  
-
-✔ **Deskripsi Project**:  
-Ini adalah kumpulan tugas PBO (Pemrograman Berorientasi objek) yang berisi:  
-- Program Kendaraan (`vehicle`, `car`, `Motorcycle`)  
-- Aplikasi Jadwal Sholat  
-- Game RPG Sederhana  
-- Sistem Kasir  
+## 📦 **Daftar Project**  
+- **🚗 Program Kendaraan**  
+  _Class hierarchy:_ `Vehicle` → `Car` / `Motorcycle`  
+  ```java
+  // Contoh snippet kode
+  Car myCar = new Car("Toyota", 2020);
