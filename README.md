@@ -1,11 +1,19 @@
-# 🚀 Tia_Risky_Yasmin_Saketang_Uji 1_PBO  
-### Kumpulan Project PBO Java yang *No Nonsense!*  
+# 📦 Tia_Risky_Yasmin - Kumpulan Projek PBO  
 
----
+### 🚗 Program Kendaraan  
+- Abstract Class `Vehicle` + Interface `Electric`  
+- Contoh: `Car` dan `Motorcycle` dengan startEngine() berbeda  
 
-## 📦 **Daftar Project**  
-- **🚗 Program Kendaraan**  
-  _Class hierarchy:_ `Vehicle` → `Car` / `Motorcycle`  
-  ```java
-  // Contoh snippet kode
-  Car myCar = new Car("Toyota", 2020);
+### 🕌 Jadwal Sholat  
+- 5 Class sholat wajib turunan dari `Prayer`  
+- Beberapa sholat implement `AudioReminder` untuk adzan  
+
+### ⚔️ Game RPG  
+- Abstract Class `Character` + Interface `Skill`  
+- 3 Hero: `Warrior`, `Mage`, `LegendaryKnight`  
+
+### 🛒 Sistem Kasir  
+- Abstract Class `Product` + Interface `Taxable`  
+- Perhitungan pajak berbeda untuk `Food` dan `Beverage`  
+
+🛠️ **Teknologi**: `Java` `OOP`  
